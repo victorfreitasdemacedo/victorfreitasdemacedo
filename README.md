@@ -1,4 +1,10 @@
-### Hi there 👋
+# Bem vindo ao meu Github 👋
+
+:smirk: Me chamo, Victor!
+
+:scroll: Bacharel em Ciencias da Computação  - UNP
+
+![gif](https://img2.joyreactor.com/pics/post/gif-the-it-crowd-crush-391188.gif)
 
 <!--
 **victorfreitasdemacedo/victorfreitasdemacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
