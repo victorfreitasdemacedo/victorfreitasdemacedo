@@ -1,8 +1,10 @@
 # Bem vindo ao meu Github 👋
 
-:smirk: Me chamo, Victor!
-
-:scroll: Bacharel em Ciencias da Computação  - UNP
+:smirk: Me chamo, Victor!<br>
+:mortar_board: Bacharel em Ciência da Computação  - UNP<br>
+:coffee: Atualmente estou trabalhando como analista de sistema<br>
+:notebook: Atualmente estou aprendendo tecnologias como java, angular e docker<br>
+:mailbox_with_mail: Contato: [linkedin](www.linkedin.com/in/victorfreitasdemacedo)
 
 ![gif](https://img2.joyreactor.com/pics/post/gif-the-it-crowd-crush-391188.gif)
 
